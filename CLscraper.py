@@ -1,7 +1,3 @@
-# TODO
-# Create dependencies
-
-
 import requests, time, sys, schedule
 # https://requests.readthedocs.io/en/master/
 from bs4 import BeautifulSoup
